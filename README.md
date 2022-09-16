@@ -30,7 +30,7 @@ asks this group of people about the other movies they liked the most and the fir
 
 The algorithm is deployed on streamlit API.
 
-[You can access it here](https://yusufgulcan-movie-recommend-movie-recom-a2r5id.streamlitapp.com/)
+[You can access it here](http://192.168.242.253:8501)
 
 ## Further Improvements
 The data size could be increased to be able to select recommendations from a wider pool. 
