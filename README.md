@@ -33,7 +33,7 @@ asks this group of people about the other movies they liked the most and the fir
 ## Deployment
 The algorithm is deployed on streamlit API.
 
-[HERE](http://192.168.242.253:8501)
+[HERE](https://zarich12-movie-recommendation-system-app-ncywaa.streamlitapp.com/)
 
 ## Further recommendations
 - The data size could be increased to be able to select recommendations from a wider pool. 
