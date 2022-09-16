@@ -2,11 +2,13 @@
 
 ![1_t98V5s6uNKVNEde5ZYQemw](https://user-images.githubusercontent.com/105684729/189542347-0a1bd076-d0c1-4d4e-9edb-428bb09b6a64.jpeg)
 
-An algorithm using cosine similarity to make movie recommendations based on user ratings.
+## Overview
+I used the cosine similarity algorithm to build this movie recommendations system based on user ratings.
 
+## Data Description
 The data is composed of 62424 different movies and the rating scores assigned to them by users. The rating scores range between 0.5 to 5.0 increasing by 0.5 for each step. 
 
-## Logic of the algorithm
+## Logic of algorithm
 The users who rated the queried movie highly are assumed to have similar taste. Just as it is in real life, the algorithm 
 asks this group of people about the other movies they liked the most and the first 10 collected movie names are given as recommendations.
 
@@ -17,7 +19,7 @@ asks this group of people about the other movies they liked the most and the fir
 
 - Visualize the results
  
-- Deploy the algorithm
+- Deploy the algorithm using streamlit
 
 
 ## Libraries 
@@ -28,11 +30,12 @@ asks this group of people about the other movies they liked the most and the fir
 - Streamlit
 - NumPy
 
+## Deployment
 The algorithm is deployed on streamlit API.
 
-[You can access it here](http://192.168.242.253:8501)
+[HERE](http://192.168.242.253:8501)
 
-## Further Improvements
-The data size could be increased to be able to select recommendations from a wider pool. 
-The rating sensitivity could also be increased for more precise recommendations. 
+## Further recommendations
+- The data size could be increased to be able to select recommendations from a wider pool. 
+- The rating sensitivity could also be increased for more precise recommendations. 
 
