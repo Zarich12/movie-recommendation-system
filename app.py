@@ -20,7 +20,6 @@ with header:
 
 path = 'data.zip'
 
-# path = r"C:\Users\yusuf\GitHub\Movie_Recommend\data.zip"
 
 
 
