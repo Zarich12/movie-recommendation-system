@@ -35,6 +35,9 @@ The algorithm is deployed on streamlit API.
 
 [HERE](https://zarich12-movie-recommendation-system-app-ncywaa.streamlitapp.com/)
 
+![Movivie](https://user-images.githubusercontent.com/106632234/192988821-e2d9120b-cd77-457c-a5fc-1cb4c33f552b.png)
+
+
 ## Further recommendations
 - The data size could be increased to be able to select recommendations from a wider pool. 
 - The rating sensitivity could also be increased for more precise recommendations. 
